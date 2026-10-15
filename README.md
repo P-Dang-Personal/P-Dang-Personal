@@ -1,1 +1,2 @@
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/053ccdab-3635-4069-a30f-0b196c18f2d3.jpeg?v=1792007669)](https://www.boot.dev/certificates/053ccdab-3635-4069-a30f-0b196c18f2d3)
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d7c27dee-fd7b-40f3-9733-e3de8651fe2e.jpeg?v=1792105678)](https://www.boot.dev/certificates/d7c27dee-fd7b-40f3-9733-e3de8651fe2e)
